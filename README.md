@@ -14,9 +14,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m a full-stack developer.
-  
+
+- 💻 Expirince in MERN stack.
+ 
 - 🌱 I’m currently learning Git & GitHub.
-  
+
 - 💬 Ask me about MongoDB, C++, Nodejs, ReactJS, JavaScript.
   
 
