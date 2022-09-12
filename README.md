@@ -15,7 +15,7 @@
 
 - 🔭 I’m a full-stack developer.
 
-- 💻 Use MERN stack.
+- 💻 Good in MERN stack.
  
 - 🌱 I’m currently learning Git & GitHub.
 
